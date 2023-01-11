@@ -1,0 +1,97 @@
+[
+  {
+    "id": 7,
+    "code": "abc140",
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "status": true,
+    "stock": 25,
+    "thumbnail": [
+      "url1",
+      "url2"
+    ]
+  },
+  {
+    "id": 8,
+    "code": "abc141",
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "status": true,
+    "stock": 25,
+    "category": "camisa",
+    "thumbnail": [
+      "url1",
+      "url2"
+    ]
+  },
+  {
+    "id": 9,
+    "code": "abc142",
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "status": true,
+    "stock": 25,
+    "category": "pantalon",
+    "thumbnail": [
+      "url1",
+      "url2"
+    ]
+  },
+  {
+    "id": 10,
+    "code": "abc143",
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "status": true,
+    "stock": 25,
+    "category": "camisa",
+    "thumbnail": [
+      "url1",
+      "url2"
+    ]
+  },
+  {
+    "id": 4,
+    "code": "abc127",
+    "title": "producto prueba modificacions",
+    "description": "Este es un producto prueba",
+    "price": 500,
+    "status": true,
+    "stock": 25,
+    "category": "pantalon",
+    "thumbnail": [
+      "url1",
+      "url2"
+    ]
+  },
+  {
+    "id": 11,
+    "code": "abc145",
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "status": true,
+    "stock": 250,
+    "thumbnail": [
+      "url1",
+      "url2"
+    ]
+  },
+  {
+    "id": 12,
+    "code": "abc148",
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "status": true,
+    "stock": 250,
+    "thumbnail": [
+      "url1",
+      "url2"
+    ]
+  }
+]
